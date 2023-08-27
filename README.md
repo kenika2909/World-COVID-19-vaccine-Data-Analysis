@@ -7,16 +7,16 @@ The "country_vaccinations.csv" dataset contains information about the COVID-19 v
 ## Installation
 To run this code, you need to have the following libraries installed:
 
+* Numpy
 * Pandas
 * Matplotlib
-* Seaborn
 
 You can install these libraries using the following commands:
 
 ```
+pip install numpy
 pip install pandas
 pip install matplotlib
-pip install seaborn
 ```
 
 ## Analysis
